@@ -1,3 +1,8 @@
+# DEPRECATED!!!
+
+Please visit https://github.com/devang-mehta/ciderseq for the latest version of CIDER-Seq Data Analysis Software. 
+
+
 # CIDER-Seq Data Analysis Software
 
 This repository contains data analysis software for CIDER-Seq (Circular DNA Enrichment Sequencing) including an implementation
